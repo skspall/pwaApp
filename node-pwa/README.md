@@ -4,9 +4,9 @@ Steps to run the server on local machine:
 
 1. Navigate to functions folder on command line
 2. Run "npm install" command
-3. Run "npm run serve" command to get a URL where APIs are running similar to "http://localhost:5000/<ProjectName>/us-central1/app/"
+3. Run "npm run serve" command to get a URL where APIs are running similar to "http://localhost:5000/ProjectName/ServerLoc/app/"
    where <ProjectName> is the project name in firebase (refer .firebaserc)
-4. The test API to check the server is working properly: "http://localhost:5000/<ProjectName>/us-central1/app/now"
+4. The test API to check the server is working properly: "http://localhost:5000/ProjectName/ServerLoc/app/now"
 
 Changes to be made to refer to your firebase account:
 
