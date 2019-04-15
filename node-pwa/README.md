@@ -11,7 +11,7 @@ Steps to run the server on local machine:
 Changes to be made to refer to your firebase account:
 
 1. Project name <ProjectName> in .firebaserc
-2. Authorization key (key=<AuthorizationKey>) in API definition /prices/new in index.js (line 44). This can be copied from the Project Settings of your firebase account.
+2. Authorization key (key=AuthorizationKey) in API definition /prices/new in index.js (line 44). This can be copied from the Project Settings of your firebase account.
 
 The API /prices/new will push notifications using Firebase Cloud Messaging(FCM).
 
